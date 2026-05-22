@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/0z.ea3llws0f7.css","style"]
-:HL["/media/articles/22-types-of-camera-shots-and-angles-for-film-and-photography/01-thumb.avif","image",{"fetchPriority":"high"}]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/feature-thelazyartist-landscape-4143f45110f73acafeadc95e1c3c496f-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/2026/02/Car-Photography-Poses.jpg","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/camera-settings-portraits-tima-miroshnichenko-landscape-cf10fbd815bb85b47911cd34c38d28aa-zybravgx2q47.jpeg","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JSIAhgNtXEX3IxLOzN2hM"}
+:HL["https://shotkit.com/wp-content/uploads/2026/02/contortionist-pose-photography.jpg","image",{"fetchPriority":"high"}]
+:HL["/media/articles/simplicity-and-minimalism-the-art-of-creating-simple-photographs/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/2025/12/christmas-crd-poses.jpg","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/image-copyright-landscape-b8bab4f90bbdf0cc72e729c52f8467d3-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"mp0_UiP9OLzU9CG3UZoag"}
