@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://smartphotomag.com
+Sitemap: https://smartphotomag.com/sitemap.xml
