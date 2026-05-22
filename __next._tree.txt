@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/0z.ea3llws0f7.css","style"]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/studio-rene-terp-landscape-4a5336f2e31439945b6c2285dfc8af4d-zybravgx2q47.jpg","image",{"fetchPriority":"high"}]
-:HL["https://shotkit.com/wp-content/uploads/2025/07/best-photo-editor-007.jpg","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/61-best-photography-books-for-all-levels/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/stock-photography-sites-landscape-ae2764c3426af633540e2f63b3ab186b-zybravgx2q47.gif","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"7udD1mqIp76FjIlbMKw5J"}
+:HL["/media/articles/22-types-of-camera-shots-and-angles-for-film-and-photography/01-thumb.avif","image",{"fetchPriority":"high"}]
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/feature-thelazyartist-landscape-4143f45110f73acafeadc95e1c3c496f-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/2026/02/Car-Photography-Poses.jpg","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/camera-settings-portraits-tima-miroshnichenko-landscape-cf10fbd815bb85b47911cd34c38d28aa-zybravgx2q47.jpeg","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"JSIAhgNtXEX3IxLOzN2hM"}
