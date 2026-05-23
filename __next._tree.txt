@@ -1,6 +1,6 @@
-:HL["/_next/static/chunks/0z.ea3llws0f7.css","style"]
-:HL["https://shotkit.com/wp-content/uploads/2026/02/contortionist-pose-photography.jpg","image",{"fetchPriority":"high"}]
-:HL["/media/articles/simplicity-and-minimalism-the-art-of-creating-simple-photographs/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/2025/12/christmas-crd-poses.jpg","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/image-copyright-landscape-b8bab4f90bbdf0cc72e729c52f8467d3-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"1qY_1BmYwnc2_NcraanIe"}
+:HL["/_next/static/chunks/11w74nuz0jpxu.css","style"]
+:HL["https://shotkit.com/wp-content/uploads/2025/12/Quotes-and-captions-for-social-media.jpg","image",{"fetchPriority":"high"}]
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/creative-photo-book-ideas-01-landscape-af18f21b9ffe6bb58fe951f7297d6970-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/concert-photo-rachel-coyne-scaled-landscape-b64b393d398179583ad427674a802d72-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
+:HL["https://shotkit.com/wp-content/uploads/2025/12/download-your-photos-from-facebook.jpg","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"x2JAWM3Ln2xPskQg5NMTr"}
