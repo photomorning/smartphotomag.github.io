@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/11w74nuz0jpxu.css","style"]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/famous_photographers_template-landscape-d18559049416020114113b8b2133bc4b-zybravgx2q47.jpg","image",{"fetchPriority":"high"}]
-:HL["https://shotkit.com/wp-content/uploads/2026/03/Father-and-Son-Photo-Poses-Fun-Natural-Ideas.jpg","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/how-to-include-pets-in-family-photos-tips-and-pose-ideas/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["https://shotkit.com/wp-content/uploads/bb-plugin/cache/editing-through-the-decades-landscape-aafea83771547d82da22e580a35672d6-zybravgx2q47.jpg","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"6MsawLx1IZuwh905LGDEn"}
+:HL["https://shotkit.com/wp-content/uploads/2026/03/SanDisk-Ultra-cmrcn.jpg","image",{"fetchPriority":"high"}]
+:HL["https://shotkit.com/wp-content/uploads/2026/03/Grandparent-Grandkid-Poses-1.jpg","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/12-creative-mom-daughter-photography-poses/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/11-father-and-son-photo-poses-fun-and-natural-ideas/01-thumb.avif","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Z3mRWCDo52yqJIPi2Q3VH"}
