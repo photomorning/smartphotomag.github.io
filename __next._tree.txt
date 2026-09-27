@@ -1,6 +1,6 @@
 :HL["/_next/static/chunks/11w74nuz0jpxu.css","style"]
-:HL["https://shotkit.com/wp-content/uploads/2026/03/SanDisk-Ultra-cmrcn.jpg","image",{"fetchPriority":"high"}]
-:HL["https://shotkit.com/wp-content/uploads/2026/03/Grandparent-Grandkid-Poses-1.jpg","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/12-creative-mom-daughter-photography-poses/01-thumb.avif","image",{"fetchPriority":"auto"}]
-:HL["/media/articles/11-father-and-son-photo-poses-fun-and-natural-ideas/01-thumb.avif","image",{"fetchPriority":"auto"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Z3mRWCDo52yqJIPi2Q3VH"}
+:HL["/media/articles/the-rules-of-fashion-instagrams-k8-hardy-mae-elvis-and-cindy-sherman/01-thumb.avif","image",{"fetchPriority":"high"}]
+:HL["/media/articles/steven-kleins-cinematic-fashion-photography-20-years-of-iconic-vogue-images/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/peter-hujar-the-master-of-black-and-white-portrait-photography/01-thumb.avif","image",{"fetchPriority":"auto"}]
+:HL["/media/articles/paolo-roversi-the-master-of-classical-composition-in-fashion-photography/01-thumb.avif","image",{"fetchPriority":"auto"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"VzqgRSa_gt5DKMDEtJM6n"}
